@@ -1,0 +1,1 @@
+As Google Code is about to close, the project was moved to GitHub : https://github.com/tarlog/tarlog-plugins.
